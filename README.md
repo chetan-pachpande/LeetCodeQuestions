@@ -1,9 +1,16 @@
 # LeetCodeQuestions
 This page contains links to C# solutions of leet code problems, all solutions are added in gist.
+- :star: > Easy
+- :star::star: > Medium
+- :star::star::star: > Hard
 
 ## Two Pointers
 
 ## Tree Breadth First Search
+- [102. Binary Tree Level Order Traversal](https://gist.github.com/chetan-pachpande/ddf94bcdfa21d8a0f315a6811dfa72b2) :star: :star:
+- [103. Binary Tree Zigzag Level Order Traversal](https://gist.github.com/chetan-pachpande/75a5154533686688d8e1b9d5be8f29bc) :star: :star:
+- [111. Minimum Depth of Binary Tree](https://gist.github.com/chetan-pachpande/6342930da81886ad6e39eed8ed64d1bf) :star:
+- [199. Binary Tree Right Side View](https://gist.github.com/chetan-pachpande/577a2fd809212a4a100bdd6aad89fed1) :star: :star:
 
 ## Graph Breadth First Search
 
