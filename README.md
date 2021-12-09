@@ -26,8 +26,6 @@ This page contains links to C# solutions of leet code problems, all solutions ar
 
 ## Dyanmic Programming
 
-## Trie
-
 ## Union Find
 
 ## Greedy
