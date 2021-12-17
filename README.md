@@ -38,6 +38,7 @@ This page contains links to C# solutions of leet code problems, all solutions ar
 ## Trie
 
 ## Dyanmic Programming
+- [494. Target Sum](https://gist.github.com/chetan-pachpande/1e081f674cf31890081f833cfc86b271)
 
 ## Union Find
 
