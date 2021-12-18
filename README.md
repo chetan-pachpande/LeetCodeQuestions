@@ -46,8 +46,9 @@ This page contains links to C# solutions of leet code problems, all solutions ar
 
 ## Stack
 - [150. Evaluate Reverse Polish Notation](https://gist.github.com/chetan-pachpande/058769f25932e916d06c6d6e218a3bda) :star: :star:
+- [232. Implement Queue using Stacks](https://gist.github.com/chetan-pachpande/8cbd34817559842f6d41da5b952d3a0d)
 
-
-
+## Queue
+- [232. Implement Queue using Stacks](https://gist.github.com/chetan-pachpande/8cbd34817559842f6d41da5b952d3a0d)
 
   
